@@ -349,7 +349,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"ChillZone"
+                         "value":"ChillZoneA"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -396,7 +396,7 @@
                          "value":true
                         }, 
                         {
-                         "name":"jitsiRoom",
+                         "name":"jitsiRoomAA",
                          "type":"string",
                          "value":"MeetingRoom"
                         }, 
