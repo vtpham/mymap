@@ -339,7 +339,7 @@
                 {
                  "height":128,
                  "id":13,
-                 "name":"jitsiChillZone",
+                 "name":"jitsiChillZoneLYNX",
                  "properties":[
                         {
                          "name":"focusable",
@@ -349,7 +349,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"ChillZoneA"
+                         "value":"ChillZoneALYNX"
                         }, 
                         {
                          "name":"jitsiTrigger",
